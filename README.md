@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/volkanozer/remoote/releases"><img src="https://img.shields.io/github/v/release/volkanozer/remoote?style=flat-square&color=3b82f6" alt="Release"></a>
+  <a href="https://github.com/ozervolkan/remoote/releases"><img src="https://img.shields.io/github/v/release/volkanozer/remoote?style=flat-square&color=3b82f6" alt="Release"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License"></a>
   <a href="https://buymeacoffee.com/volkanozer"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Donate-f59e0b?style=flat-square&logo=buy-me-a-coffee" alt="Donate"></a>
   <img src="https://img.shields.io/badge/Platform-macOS%20%7C%20Windows%20%7C%20Linux-94a3b8?style=flat-square" alt="Platforms">

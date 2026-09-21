@@ -13,6 +13,7 @@
 </p>
 
 <p align="center">
+  <a href="https://remoote.kendisitesi.com"><img src="https://img.shields.io/badge/Website-remoote.kendisitesi.com-3b82f6?style=flat-square&logo=google-chrome" alt="Website"></a>
   <a href="https://github.com/ozervolkan/remoote/releases"><img src="https://img.shields.io/github/v/release/ozervolkan/remoote?style=flat-square&color=3b82f6" alt="Release"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License"></a>
   <a href="https://buymeacoffee.com/volkanozer"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Donate-f59e0b?style=flat-square&logo=buy-me-a-coffee" alt="Donate"></a>
@@ -85,6 +86,7 @@ Remoote Code Editor uygulamasını beğeniyor ve günlük çalışmalarınızda 
 ## 👨‍💻 Geliştirici & İletişim
 
 - **Geliştirici:** Volkan Özer
+- **Web Sitesi:** [remoote.kendisitesi.com](https://remoote.kendisitesi.com)
 - **Email:** [volkanozernet@gmail.com](mailto:volkanozernet@gmail.com)
 - **LinkedIn:** [linkedin.com/in/ozervolkan](https://www.linkedin.com/in/ozervolkan/)
 - **X (Twitter):** [@volkanozernet](https://x.com/volkanozernet)

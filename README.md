@@ -6,10 +6,9 @@
 
 <h3 align="center">Remoote Code Editor</h3>
 
-
 <p align="center">
-  <b>Modern, Hızlı & Hafif VPS SSH/SFTP Yöneticisi ve Monaco Kod Editörü</b><br>
-  <i>Geliştiriciler ve sistem yöneticileri için tasarlanmış %100 ücretsiz, yerel ve çapraz platform masaüstü uygulaması.</i>
+  <b>Modern, Fast & Lightweight VPS SSH/SFTP Manager and Monaco Code Editor</b><br>
+  <i>A 100% free, local, and cross-platform desktop application designed for developers and system administrators.</i>
 </p>
 
 <p align="center">
@@ -21,59 +20,60 @@
 </p>
 
 ---
+
 <p align="left">
   <a href="https://buymeacoffee.com/volkanozer" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50">
   </a>
 </p>
 
-## 🌟 Öne Çıkan Özellikler
+## 🌟 Key Features
 
-- 📂 **SFTP Otomatik Senkronizasyon (Upload on Save):** Dosyayı editörde kaydettiğiniz an (`Cmd+S` / `Ctrl+S`) yerel diskinize kaydedilir ve arka planda saniyeler içinde uzak VPS sunucunuza aktarılır.
-- ⚡ **VS Code Motorlu Monaco Code Editor:** Microsoft Monaco Editor çekirdeği ile zengin sözdizimi vurgulama (Syntax Highlighting), otomatik tamamlama, kod katlama ve çoklu imleç desteği.
-- 💻 **Bütünleşik Sekmeli Terminaller:** Aynı pencere altında hem yerel sistem terminalinizi (bash, zsh, powershell) hem de uzak sunucu interaktif SSH PTY süreçlerinizi sekme sekme yönetin.
-- 🔒 **%100 Yerel ve Güvenli Depolama:** Tüm SSH sunucu bilgileri, parolalar ve private key anahtarlarınız yalnızca kendi cihazınızda saklanır. Hiçbir veriniz üçüncü taraf sunuculara gönderilmez.
-- 🔑 **Akıllı Sudo / Root Yetki Yükseltme:** Uzak sunucudaki yetki kısıtlamalı dosyalarda `Permission Denied` hatası aldığınızda otomatik Sudo parolasını sorarak işlemi kesintisiz tamamlar.
-- 🔍 **Hızlı Dosya Açma Paleti (Cmd+P / Ctrl+P):** Klavyeden elinizi kaldırmadan proje içerisindeki tüm dosyalara anında ulaşın.
-- 🌐 **Çoklu Dil Desteği (i18n):** Türkçe, İngilizce, İspanyolca, Almanca ve Fransızca tam arayüz dil desteği.
+- 📂 **SFTP Auto Sync (Upload on Save):** The moment you save a file in the editor (`Cmd+S` / `Ctrl+S`), it is saved to your local disk and securely uploaded to your remote VPS server in seconds in the background.
+- ⚡ **Monaco Code Editor Powered by VS Code Engine:** Rich syntax highlighting, auto-completion, code folding, and multi-cursor support powered by Microsoft Monaco Editor core.
+- 💻 **Integrated Tabbed Terminals:** Manage both your local system terminals (bash, zsh, powershell) and remote server interactive SSH PTY sessions side-by-side in tabs within a single window.
+- 🔒 **100% Local & Secure Storage:** All SSH server credentials, passwords, and private keys remain strictly on your own device. None of your data is ever sent to third-party servers.
+- 🔑 **Smart Sudo / Root Elevation:** When encountering a `Permission Denied` error on restricted remote files, it automatically prompts for your Sudo password to complete operations seamlessly with elevated privileges.
+- 🔍 **Quick Open Palette (Cmd+P / Ctrl+P):** Instantly navigate and jump to any file in your project workspace without taking your hands off the keyboard.
+- 🌐 **Multi-Language Support (i18n):** Full user interface localization for English, Turkish, Spanish, German, and French.
 
 ---
 
-## 📦 İndirme Seçenekleri
+## 📦 Download Options
 
-Uygulamanın en son sürümünü [GitHub Releases](https://github.com/ozervolkan/remoote/releases) sayfasından indirebilirsiniz:
+Download the latest release of the application from the [GitHub Releases](https://github.com/ozervolkan/remoote/releases) page:
 
-| Platform | Dosya Biçimi | Desteklenen Mimari |
+| Platform | File Format | Supported Architecture |
 | :--- | :--- | :--- |
 | 🍏 **macOS** | `.dmg` | Apple Silicon (M1/M2/M3/M4) & Intel |
 | 🪟 **Windows** | `.exe` (Portable) & `.zip` | Windows 10 / 11 (64-bit) |
 
 ---
 
-## ⌨️ Klavye Kısayolları
+## ⌨️ Keyboard Shortcuts
 
-| Kısayol (macOS / Windows) | İşlem |
+| Shortcut (macOS / Windows) | Action |
 | :--- | :--- |
-| `Cmd + S` / `Ctrl + S` | Aktif Dosyayı Yerel Kaydet & Uzak Sunucuya Yükle |
-| `Cmd + Shift + U` / `Ctrl + Shift + U` | Açık Olan Dosyayı Doğrudan Sunucuya Yükle |
-| `Cmd + P` / `Ctrl + P` | Hızlı Dosya Arama Paleti (Quick Open) |
-| `Cmd + B` / `Ctrl + B` | Sol Dosya Gezgini Panelini Daralt / Aç |
-| `` Ctrl + ` `` / `` Cmd + ` `` | Alt Konsol & Terminal Panelini Göster / Gizle |
-| `Cmd + W` / `Ctrl + W` | Aktif Editör Sekmesini Kapat |
+| `Cmd + S` / `Ctrl + S` | Save Active File Locally & Upload to Remote Server |
+| `Cmd + Shift + U` / `Ctrl + Shift + U` | Upload Currently Open File Directly to Server |
+| `Cmd + P` / `Ctrl + P` | Quick Open File Palette |
+| `Cmd + B` / `Ctrl + B` | Toggle / Collapse Left File Explorer Sidebar |
+| `` Ctrl + ` `` / `` Cmd + ` `` | Show / Hide Bottom Console & Terminal Panel |
+| `Cmd + W` / `Ctrl + W` | Close Active Editor Tab |
 
 ---
 
-## 📜 Kullanım Koşulları & Sorumluluk Reddi
+## 📜 Terms of Use & Disclaimer
 
-- **Veri Gizliliği:** Tüm sunucu bilgileri, SSH anahtarları ve şifreleriniz %100 yerel olarak kendi bilgisayarınızda saklanır.
-- **Kullanıcı Sorumluluğu:** Remoote Code Editor aracılığıyla uzak sunucularınız üzerinde yapacağınız dosya yükleme, silme, düzenleme veya Sudo (root) yetkisiyle gerçekleştirilen tüm işlemler tamamen kullanıcının kendi sorumluluğundadır.
-- **Sorumluluk Reddi:** Remoote Code Editor *"OLDUĞU GİBİ"* (AS IS) sunulmaktadır. Geliştirici; olası veri kayıplarından veya sunucu kesintilerinden sorumlu tutulamaz.
+- **Data Privacy:** All server configurations, SSH keys, and passwords are stored 100% locally on your computer.
+- **User Responsibility:** All file edits, uploads, deletions, terminal commands, or Sudo operations performed on your remote servers using Remoote Code Editor are the sole responsibility of the user.
+- **Limitation of Liability:** Remoote Code Editor is provided *"AS IS"*, without warranty of any kind. The developer shall not be liable for any data loss, server downtime, or indirect damages.
 
 ---
 
-## ☕ Destek Olun & Bağış
+## ☕ Support & Donations
 
-Remoote Code Editor uygulamasını beğeniyor ve günlük çalışmalarınızda faydalı buluyorsanız, projenin sürdürülebilirliğine katkıda bulunmak için bir kahve ısmarlayabilirsiniz:
+If you enjoy using Remoote Code Editor and find it helpful for your daily workflow, consider supporting its continuous development by buying me a coffee!
 
 <p align="left">
   <a href="https://buymeacoffee.com/volkanozer" target="_blank">
@@ -83,10 +83,10 @@ Remoote Code Editor uygulamasını beğeniyor ve günlük çalışmalarınızda 
 
 ---
 
-## 👨‍💻 Geliştirici & İletişim
+## 👨‍💻 Developer & Contact
 
-- **Geliştirici:** Volkan Özer
-- **Web Sitesi:** [remoote.kendisitesi.com](https://remoote.kendisitesi.com)
+- **Developer:** Volkan Özer
+- **Website:** [remoote.kendisitesi.com](https://remoote.kendisitesi.com)
 - **Email:** [volkanozernet@gmail.com](mailto:volkanozernet@gmail.com)
 - **LinkedIn:** [linkedin.com/in/ozervolkan](https://www.linkedin.com/in/ozervolkan/)
 - **X (Twitter):** [@volkanozernet](https://x.com/volkanozernet)
@@ -94,5 +94,5 @@ Remoote Code Editor uygulamasını beğeniyor ve günlük çalışmalarınızda 
 ---
 
 <p align="center">
-  Remoote Code Editor © 2026. Tüm Hakları Saklıdır.
+  Remoote Code Editor © 2026. All Rights Reserved.
 </p>
